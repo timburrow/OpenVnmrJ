@@ -6,11 +6,12 @@ Read more about OpenVnmrJ and the history of VnmrJ at [Background](http://openvn
 OpenVnmrJ does not contain console software, example FIDs, NMRPipe or ChemPack, however during installation, these will be copied from your existing
 VnmrJ 4.2 into the OpenVnmrJ directory. The /vnmr symlink will be changed to point to OpenVnmrJ and your existing VnmrJ 4.2 installation will be untouched.
 
-Never delete the Agilent supplied VnmrJ 4.2 on a spectrometer computer—Agilent service will require the original VnmrJ 4.2.
+Never delete the Agilent supplied VnmrJ 4.2 on a spectrometer computer because Agilent service will require the original VnmrJ 4.2.
 
 If you want to use or test OpenVnmrJ, download the release appropriate for your OS, see below.  
 
 ## Releases
+[![Github All Releases](https://img.shields.io/github/downloads/OpenVnmrJ/OpenVnmrJ/total.svg?maxAge=2592000?style=flat-square)]()  
 
 The latest binary releases for OpenVnmrJ are available from [Releases](https://github.com/OpenVnmrJ/OpenVnmrJ/releases).  
 There are releases for:  
@@ -27,7 +28,12 @@ For more information on the OpenVnmrJ project, visit [openvnmrj.org](http://open
 We are looking for anyone to help with this projects. Coding is not necessary! Translations, pulse sequences, macros, beta testing and bug reporting are
 very helpful. See [Contributing](http://openvnmrj.org/Contributing/) for more information.  
 
-## Contribute Appdirs
+## Contributors
+ * Timothy Burrow
+ * Dan Iverson
+ * Gareth Morris  
+ 
+## Contribution to Appdirs
 
 We welcome pulse sequences, libraries of macros, UX improvments contributed as an Appdir. Check out the [OpenVnmrJ Appdirs](https://github.com/OpenVnmrJ/appdirs) 
 repository on how to download and install user contributed appdirs and how to contribute your appdir. 
