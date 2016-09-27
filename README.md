@@ -32,11 +32,16 @@ very helpful. See [Contributing](http://openvnmrj.org/Contributing/) for more in
  * Timothy Burrow
  * Dan Iverson
  * Gareth Morris  
+ * Michael Tesch
+
  
 ## Contribution to Appdirs
 
 We welcome pulse sequences, libraries of macros, UX improvments contributed as an Appdir. Check out the [OpenVnmrJ Appdirs](https://github.com/OpenVnmrJ/appdirs) 
 repository on how to download and install user contributed appdirs and how to contribute your appdir. 
+
+In OpenVnmrJ, type `ovjapps` to list user contributed application directories.
+
 Feel free to use [Slack](https://openvnmrj.slack.com/messages/appdirs/) if you need some help.  
 
 ## Building
